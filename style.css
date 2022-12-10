@@ -14,7 +14,32 @@ h3 {
 .nav-link{
   background-color: #1F2937;
   color: white;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  background-color: #1F2937;
+  gap: 60px;
+  justify-content: end;
+  justify-items: end;
 }
+
+.nav-link ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  border: none;
+  background-color: #1F2937;
+  gap: 60px;
+  justify-content: end;
+  align-items: flex-end;
+  margin-right: 200px;
+}
+
+.logo {
+  justify-self: start;
+}
+
+
 
 .intro-section {
   background-color: #1F2937;
@@ -25,6 +50,7 @@ h3 {
   align-items: start;
   padding: 40px 50px 100px 50px;
   gap: 30px;
+  margin-top: -1px;
 }
 
 .intro-details {
@@ -114,4 +140,34 @@ h3 {
   font-weight: 100;
   color: #1F2937;
   max-width: 800px;
+}
+
+.action-section {
+  padding: 70px;
+  margin-left: 260px;
+}
+
+.action-div {
+  background-color: #3882F6;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 40px 40px 40px 90px;
+  max-width: 800px;
+  border-radius: 5px;
+  gap: 100px;
+}
+
+.up {
+  border: 1.5px solid white;
+  border-radius: 8px;
+}
+
+footer {
+  background-color: #1F2937;
+  color: white;
+  padding: 20px 200px 20px 200px;
+  display: flex;
+  justify-content: center;
 }
