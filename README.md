@@ -14,7 +14,7 @@ This is a project of Newsletter of vegan recipes!
 
 > Here you can see the live demo of the website:
 
-- [Live Demo Link](https://rivasbolinga.github.io/Home-For-All)
+- [Live Demo Link](https://rivasbolinga.github.io/Awe-website/)
 
 <!-- AUTHORS -->
 
