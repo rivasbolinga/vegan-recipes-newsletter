@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
 }
+
 p,
 h1,
 h2,
@@ -11,13 +12,12 @@ h3 {
   margin: 0;
 }
 
-.nav-link{
-  background-color: #1F2937;
+.nav-link {
+  background-color: #1f2937;
   color: white;
   display: flex;
   flex-direction: row;
   list-style: none;
-  background-color: #1F2937;
   gap: 60px;
   justify-content: end;
   justify-items: end;
@@ -28,7 +28,7 @@ h3 {
   flex-direction: row;
   list-style: none;
   border: none;
-  background-color: #1F2937;
+  background-color: #1f2937;
   gap: 60px;
   justify-content: end;
   align-items: flex-end;
@@ -39,10 +39,8 @@ h3 {
   justify-self: start;
 }
 
-
-
 .intro-section {
-  background-color: #1F2937;
+  background-color: #1f2937;
   color: white;
   display: flex;
   flex-direction: row;
@@ -60,7 +58,7 @@ h3 {
   max-width: 500px;
 }
 
-.intro-img{
+.intro-img {
   height: 300px;
 }
 
@@ -72,12 +70,12 @@ h3 {
 .intro-text {
   font-size: 18px;
   line-height: 25px;
-  color: #E5E7EB;
+  color: #e5e7eb;
 }
 
 .intro-btn {
   width: 120px;
-  background-color: #3882F6;
+  background-color: #3882f6;
   border: none;
   color: white;
   padding: 10px 25px 10px 25px;
@@ -97,7 +95,7 @@ h3 {
 .recipes-title {
   font-size: 36px;
   font-weight: 900;
-  color: #1F2937
+  color: #1f2937;
 }
 
 .recipes-demo {
@@ -117,7 +115,7 @@ h3 {
 .recipe-img {
   width: 150px;
   height: 150px;
-  border: 5px solid #3882F6;
+  border: 5px solid #3882f6;
   border-radius: 10px;
 }
 
@@ -127,7 +125,7 @@ h3 {
 }
 
 .quote-section {
-  background-color: #E5E7EB;
+  background-color: #e5e7eb;
   padding: 120px;
   display: flex;
   align-items: center;
@@ -138,7 +136,7 @@ h3 {
   font-size: 36px;
   font-style: italic;
   font-weight: 100;
-  color: #1F2937;
+  color: #1f2937;
   max-width: 800px;
 }
 
@@ -148,7 +146,7 @@ h3 {
 }
 
 .action-div {
-  background-color: #3882F6;
+  background-color: #3882f6;
   color: white;
   display: flex;
   flex-direction: row;
@@ -165,7 +163,7 @@ h3 {
 }
 
 footer {
-  background-color: #1F2937;
+  background-color: #1f2937;
   color: white;
   padding: 20px 200px 20px 200px;
   display: flex;
