@@ -99,3 +99,19 @@ h3 {
   text-align: center;
   font-size: 18px;
 }
+
+.quote-section {
+  background-color: #E5E7EB;
+  padding: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 100;
+  color: #1F2937;
+  max-width: 800px;
+}
