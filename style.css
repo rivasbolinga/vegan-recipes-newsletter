@@ -1,0 +1,171 @@
+* {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+p,
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+.nav-link {
+  background-color: #1f2937;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  gap: 60px;
+  justify-content: end;
+  justify-items: end;
+}
+
+.nav-link ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  border: none;
+  background-color: #1f2937;
+  gap: 60px;
+  justify-content: end;
+  align-items: flex-end;
+  margin-right: 200px;
+}
+
+.logo {
+  justify-self: start;
+}
+
+.intro-section {
+  background-color: #1f2937;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+  padding: 40px 50px 100px 50px;
+  gap: 30px;
+  margin-top: -1px;
+}
+
+.intro-details {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  max-width: 500px;
+}
+
+.intro-img {
+  height: 300px;
+}
+
+.intro-title {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.intro-text {
+  font-size: 18px;
+  line-height: 25px;
+  color: #e5e7eb;
+}
+
+.intro-btn {
+  width: 120px;
+  background-color: #3882f6;
+  border: none;
+  color: white;
+  padding: 10px 25px 10px 25px;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 7px;
+}
+
+.recipes-section {
+  padding: 50px 100px 50px 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.recipes-title {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+}
+
+.recipes-demo {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  margin-top: 50px;
+}
+
+.recipe-box {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  max-width: 150px;
+}
+
+.recipe-img {
+  width: 150px;
+  height: 150px;
+  border: 5px solid #3882f6;
+  border-radius: 10px;
+}
+
+.recipe-details {
+  text-align: center;
+  font-size: 18px;
+}
+
+.quote-section {
+  background-color: #e5e7eb;
+  padding: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 100;
+  color: #1f2937;
+  max-width: 800px;
+}
+
+.action-section {
+  padding: 70px;
+  margin-left: 260px;
+}
+
+.action-div {
+  background-color: #3882f6;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 40px 40px 40px 90px;
+  max-width: 800px;
+  border-radius: 5px;
+  gap: 100px;
+}
+
+.up {
+  border: 1.5px solid white;
+  border-radius: 8px;
+}
+
+footer {
+  background-color: #1f2937;
+  color: white;
+  padding: 20px 200px 20px 200px;
+  display: flex;
+  justify-content: center;
+}
