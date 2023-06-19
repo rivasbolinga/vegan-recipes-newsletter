@@ -1,3 +1,6 @@
+
+ ![Minimalist Neutral Multi Device Computer Mockup Website Launch Instagram Post (3)](https://github.com/rivasbolinga/Awe-website/assets/103900838/a347bf42-bcf6-415c-985c-82fb78f22388)
+
 # Vegan Recipes Newsletter
 
 This is a project of Newsletter of vegan recipes!
